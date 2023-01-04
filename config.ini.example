@@ -1,0 +1,9 @@
+[mastodon]
+api_base_url = https://YOUR_MASTODON_INSTANCE.com
+client_secret = YOUR_CLIENT_SECRET
+login = ACCOUNT_LOGIN_EMAIL
+password = ACCOUNT_LOGIN_PASSWORD
+
+[folders]
+sourcefiles = /Path/To/Images/To/Upload/
+usedfiles = /Path/To/Images/That/Were/Uploaded/
